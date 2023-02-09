@@ -1,16 +1,18 @@
-# flojics_assignment
 
-A new Flutter project.
+# Next Shop
 
-## Getting Started
+Next Shop is a fake online shop based on a fakeStoreApi REST API that you can use whenever you need Pseudo-real data for your e-commerce or shopping website without running any server-side code. It\'s awesome for teaching purposes, sample codes, tests, etc. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install Next Shop with git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/Astroshahawy/flojics_assignment.git
+```
+Run Project
+
+```bash
+flutter run 
+```
